@@ -30,7 +30,7 @@ A high-concurrency web crawler built with Laravel, capable of handling 100,000 r
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/LaravelHighConcurrencyCrawler.git
+   git clone https://github.com/BpsEason/LaravelHighConcurrencyCrawler.git
    cd LaravelHighConcurrencyCrawler
    ```
 
