@@ -1,0 +1,6 @@
+sites:
+  example.com:
+    title_selector: "h1.product-title"
+    price_selector: "span.product-price"
+    description_selector: "div.product-description"
+    image_selector: "img.product-image"
